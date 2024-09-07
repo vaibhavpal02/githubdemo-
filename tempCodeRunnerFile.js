@@ -1,0 +1,1 @@
+const Gname = prompt("Please enter your name: ");
